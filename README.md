@@ -9,7 +9,7 @@ Me entusiasma resolver problemas lógicos y de negocio complejos, transformando 
 ## 🛠️ Mi Stack Tecnológico Principal
 
 ### 🤖 Android Development
-* **Lenguajes:** Kotlin, Java
+* **Lenguajes:** Kotlin
 * **UI Framework:** Jetpack Compose (Modern Declarative UI)
 * **Arquitectura:** MVVM (Model-View-ViewModel), Clean Architecture
 * **Asincronía y Reactividad:** Kotlin Coroutines & Flows (`StateFlow`, `SharedFlow`)
@@ -38,5 +38,5 @@ Actualmente estoy concentrando todo mi esfuerzo de ingeniería en el diseño y c
 
 ## 📬 Conectemos
 
-* **LinkedIn:** www.linkedin.com/in/octavio-bustos-solis-53220b229
+* **LinkedIn:** www.linkedin.com/in/octavio-bustos-solis
 * **Ubicación:** México 🇲🇽
